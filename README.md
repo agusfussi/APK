@@ -1,2 +1,2 @@
 # APK
-apk for mi Arduino Projet
+apk for my Arduino Projet
